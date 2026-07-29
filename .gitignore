@@ -1,0 +1,10 @@
+# Accidental npm junk — not part of the nvim config
+node_modules/
+package.json
+package-lock.json
+
+# Local Claude Code settings
+.claude/
+
+# Stray nested clone
+Git-Config/
